@@ -4,8 +4,10 @@
 
 int main()
 {
+	int i;
+	
 	//Check each number from 1 to 100 inclusive
-	for (int i = 1; i <= 100; i++)
+	for (i = 1; i <= 100; i++)
 	{
 		//The number is divisible by 3 and 5
 		if (i % 15 == 0)
