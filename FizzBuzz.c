@@ -27,7 +27,7 @@ int main()
 			//Print Buzz
 			printf("Buzz\n");
 		}
-		//The number is divisible by neither 3 nor 5
+		//The number is divisible by neither 3 nor 5 
 		else
 		{
 			//Print the number
